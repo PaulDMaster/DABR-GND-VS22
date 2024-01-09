@@ -1,7 +1,6 @@
 # Projektarbeit-VS22- "Digitalisierung, Analyse und Bewertung von Radwegen in der Gemeinde Neustadt (Dosse)​"
 
-https://pauldmaster.github.io/Projektarbeit-VS22/
-
+https://pauldmaster.github.io/DABR-GND-VS22/
 
 Projektbeschreibung:
 Dieses Projekt zielt darauf ab, die Radwege in der Gemeinde Neustadt (Dosse) zu digitalisieren, analysieren und zu bewerten. Die Verwendung von QGIS ermöglicht eine effiziente Erfassung von geografischen Daten, Analyse von Radwegen und die Erstellung aussagekräftiger Karten.
