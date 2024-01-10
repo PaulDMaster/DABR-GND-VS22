@@ -9,6 +9,6 @@ Die Darstellung innerhalb des Browsers wurde mit "QGIS2Web" durchgeführt
 
 Die Hintergrund Kartendaten stammen von Openstreetmap
 
-Die Bewertung wurde innerhlab unserers Projektes von 2 Komillitonen durchgeführt welche sich eigene Maßstäbe erarbeitet haben und danach diese Werte ermittelt haben
+Die Bewertung wurde innerhalb unserers Projektes von 2 Komillitonen durchgeführt, welche sich eigene Maßstäbe erarbeitet haben und danach diese Werte ermittelt haben
 
 Der Vollständiger Abschlussbericht und unsere Präsentation dieses Projektes wird ca. Anfang Februar hier verfügbar sein
